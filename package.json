@@ -1,7 +1,7 @@
 {
-  "name": "Akashi-MD ",
+  "name": "|•OKLMBOY•|",
   "version": "10.8.1",
-  "description": "Akashi-MD  latest multi device whatsapp bot",
+  "description": "BOFFF ON ASSUME JUSTE",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,7 +10,7 @@
     "restart": "pm2 restart Akashi-MD "
   },
   "keywords": ["akashi-md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "akashi-sasaki",
+  "author": "¥|•§•|¥",
   "license": "Apache-2.0",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
